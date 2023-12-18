@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/swagger-Doc/static/css/main.e7ae6733.css",
-    "main.js": "/swagger-Doc/static/js/main.3a605617.js",
-    "static/js/787.37300aa4.chunk.js": "/swagger-Doc/static/js/787.37300aa4.chunk.js",
-    "index.html": "/swagger-Doc/index.html",
-    "main.e7ae6733.css.map": "/swagger-Doc/static/css/main.e7ae6733.css.map",
-    "main.3a605617.js.map": "/swagger-Doc/static/js/main.3a605617.js.map",
-    "787.37300aa4.chunk.js.map": "/swagger-Doc/static/js/787.37300aa4.chunk.js.map"
+    "main.css": "./static/css/main.e7ae6733.css",
+    "main.js": "./static/js/main.b53920e3.js",
+    "static/js/787.79d1c581.chunk.js": "./static/js/787.79d1c581.chunk.js",
+    "index.html": "./index.html",
+    "main.e7ae6733.css.map": "./static/css/main.e7ae6733.css.map",
+    "main.b53920e3.js.map": "./static/js/main.b53920e3.js.map",
+    "787.79d1c581.chunk.js.map": "./static/js/787.79d1c581.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7ae6733.css",
-    "static/js/main.3a605617.js"
+    "static/js/main.b53920e3.js"
   ]
 }
