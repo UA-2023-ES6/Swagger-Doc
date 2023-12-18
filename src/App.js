@@ -1,12 +1,11 @@
 import './App.css';
 import SwaggerUI from "swagger-ui-react";
 import "swagger-ui-react/swagger-ui.css";
+import swaggerJson from "./swagger.json"
 
 function App() {
   return (
-    <div className="App">
-      <SwaggerUI url="/webApi/swagger.json" />
-      </div>
+    <SwaggerUI spec={swaggerJson} />
   );
 }
 
