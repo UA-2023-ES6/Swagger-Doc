@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swagger-Doc/static/css/main.e7ae6733.css",
+    "main.js": "/swagger-Doc/static/js/main.3a605617.js",
+    "static/js/787.37300aa4.chunk.js": "/swagger-Doc/static/js/787.37300aa4.chunk.js",
+    "index.html": "/swagger-Doc/index.html",
+    "main.e7ae6733.css.map": "/swagger-Doc/static/css/main.e7ae6733.css.map",
+    "main.3a605617.js.map": "/swagger-Doc/static/js/main.3a605617.js.map",
+    "787.37300aa4.chunk.js.map": "/swagger-Doc/static/js/787.37300aa4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7ae6733.css",
+    "static/js/main.3a605617.js"
+  ]
+}
